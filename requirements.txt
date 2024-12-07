@@ -2,3 +2,5 @@ fastapi
 uvicorn
 ultralytics
 opencv-python
+pydantic
+python-multipart

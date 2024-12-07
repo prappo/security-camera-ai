@@ -1,0 +1,7 @@
+.env
+backend/detection_rules.json
+backend/__pycache__/
+backend/*.pt
+backend/*.pth
+.DS_Store
+
